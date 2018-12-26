@@ -45,7 +45,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="LibLog" Version="5.0.2" />
+    <PackageReference Include="LibLog" Version="5.0.4" />
     <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="2.1.1" />
     <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="2.1.1" />
     <PackageReference Include="Cronus.DomainModeling" Version="5.0.0-discovery0006" />
